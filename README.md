@@ -12,7 +12,7 @@
 2 - Entre no diretório do crawler:           
 ![image](https://github.com/Emanuelsmcastro/crawler_ML/assets/93106680/abec73b7-e43a-4604-add8-2a06abbad412)
 
-3 - Digite o seguinte comando:
+3 - Digite o seguinte comando:     
 ![image](https://github.com/Emanuelsmcastro/crawler_ML/assets/93106680/9f904faa-5c6e-4dc3-bb8c-9e7a9ad668d8)
 
 # Resultado:
